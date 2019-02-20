@@ -14,6 +14,7 @@ Installation of files
 Create a root software stack directory `<stack_root>` per directions in [stack-spack](https://github.com/burgreen/stack-spack).
 
 ```
+tar xf  tarball-gcc-<ver>-var.tar.gz        -C <stack_root>
 tar xfz tarball-gcc-<ver>-thirdparty.tar.gz -C <stack_root>
 ```
 
